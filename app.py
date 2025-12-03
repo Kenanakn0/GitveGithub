@@ -23,7 +23,7 @@ def home():
     </head>
     <body>
         <div class="container">
-            <h1>🚀 GitHub Demo Website</h1>
+            <h1>🚀 GitHub Merhaba Dünya Website</h1>
             <div class="status" id="status">Sistem durumu yükleniyor...</div>
             <button onclick="checkStatus()">Durumu Kontrol Et</button>
             <button onclick="updateCode()">Kodu Güncelle</button>
