@@ -99,6 +99,6 @@ def update():
         })
 
 if __name__ == '__main__':
+    print("merhaba dünya")
     app.run(host='0.0.0.0', port=5000, debug=True)
 
-print("Hello world ben bunu düzenledim")
